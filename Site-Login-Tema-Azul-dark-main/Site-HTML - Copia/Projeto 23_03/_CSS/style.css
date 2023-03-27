@@ -1,0 +1,72 @@
+body{
+   
+    color: rgb(133, 133, 133);
+    max-width: 1200px;
+    margin: 0 auto;
+    background-color: #000;
+    
+    font-family: poppinsregular;
+    
+    
+}
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.titulo{
+    color: #3001b1;
+    font-family: poppinsblack; 
+}
+main{
+    display: flex;
+}
+input{
+    background-color: #ffffff;
+    font-size: 18pt;
+    margin: 3px;
+    border-radius: 10px;
+}
+p{
+    font-size: 14pt;
+}
+li{
+    display:inline-block;
+    margin: 10px;
+}
+#btn-conta{
+    border: rgb(104, 3, 80) solid 2px;
+    border-radius: 10px;
+    
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: #3001b1;
+    transition: 0.3s;
+}
+h2{
+    font-size: 32pt;
+    line-height: 10px;
+
+}
+img{
+    padding-left: 200px;
+    /*border: solid 2px white;*/
+}
+
+/*
+Uma forma de estilizar input é utilizndo essa sintaxe
+de form apos isso um espaço separando o seletor o tipo
+ dentro do cochetes e chaves para a estilização
+ como por exemplo:
+ */
+
+
+
+form [type="submit"]:hover{
+    cursor: pointer;
+}

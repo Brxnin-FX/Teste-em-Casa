@@ -1,0 +1,85 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@500&display=swap');
+
+
+
+body{
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    width: 100%;
+    color: rgb(255, 255, 255);
+    background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1457%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='url(%23SvgjsLinearGradient1458)'%3e%3c/rect%3e%3cpath d='M172 107L314 249' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1347 539L982 174' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1369 457L1735 823' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M309 234L510 435' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M998 461L1143 606' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1310 401L1721 812' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M723 63L960 300' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M638 382L352 96' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1313 66L1469 222' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M21 217L-314 -118' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M92 65L415 388' stroke-width='8' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M134 551L512 929' stroke-width='8' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1428 134L1282 -12' stroke-width='8' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M317 346L72 101' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M272 369L496 593' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M965 291L775 101' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M614 239L302 -73' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M215 182L603 570' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1311 268L1618 575' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M348 537L-63 126' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M865 149L690 -26' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M433 3L687 257' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M102 437L-259 76' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M44 114L-334 -264' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M581 87L749 255' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M409 34L706 331' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1439 50L1076 -313' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1111 184L1433 506' stroke-width='8' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M1016 532L600 116' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M331 511L749 929' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M178 136L4 -38' stroke-width='8' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M240 146L-48 -142' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M563 324L179 -60' stroke-width='10' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M493 225L217 -51' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M456 130L780 454' stroke-width='8' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M500 49L253 -198' stroke-width='10' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M1390 117L1585 312' stroke-width='8' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3cpath d='M325 19L714 408' stroke-width='6' stroke='url(%23SvgjsLinearGradient1459)' stroke-linecap='round' class='BottomRight'%3e%3c/path%3e%3cpath d='M196 402L-66 140' stroke-width='6' stroke='url(%23SvgjsLinearGradient1460)' stroke-linecap='round' class='TopLeft'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1457'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3clinearGradient x1='15.28%25' y1='-39.29%25' x2='84.72%25' y2='139.29%25' gradientUnits='userSpaceOnUse' id='SvgjsLinearGradient1458'%3e%3cstop stop-color='rgba(2%2c 12%2c 24%2c 1)' offset='0.1'%3e%3c/stop%3e%3cstop stop-color='rgba(2%2c 12%2c 24%2c 1)' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='0%25' y1='0%25' x2='100%25' y2='100%25' id='SvgjsLinearGradient1459'%3e%3cstop stop-color='rgba(28%2c 83%2c 142%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='%231c538e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3clinearGradient x1='100%25' y1='100%25' x2='0%25' y2='0%25' id='SvgjsLinearGradient1460'%3e%3cstop stop-color='rgba(28%2c 83%2c 142%2c 0)' offset='0'%3e%3c/stop%3e%3cstop stop-color='%231c538e' offset='1'%3e%3c/stop%3e%3c/linearGradient%3e%3c/defs%3e%3c/svg%3e");
+    
+     background-position: right top;
+    background-attachment: fixed;	
+    font-family: 'Roboto Slab', serif;
+}
+.card{
+
+    /*         
+            Jeito do Professor
+
+
+            position: relative;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+     */
+     
+    margin-top: 10%;
+    margin-left: 30%;
+    margin-right: 30%;
+
+
+    display: flex;
+    background-color: rgba(3, 1, 65, 0.505);
+    align-items: center;
+    border-radius: 15px;
+    padding: 20px;
+    box-shadow: 2px 2px 30px 5px rgb(0,0,0);
+}
+#perfil{
+    align-items: center;
+    margin-left: 15px;
+}
+.profile{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right: 35px;
+     
+}
+.profile>h1{
+    margin: 10px;
+}
+.info{
+    padding: 20px;
+    margin-left: 40px;
+    flex-direction: row;
+    
+}
+p{
+    margin-top: 20px;
+    font-size: 12pt;
+}
+.txt{
+    margin-bottom: 20px;
+    font-size: 16pt;
+    text-shadow: 3px 4px 5px rgb(6 9 180)
+}
+.ico{
+    padding: 2px;
+    flex-direction: row;
+    /* 
+           Filtro para inversao de cores
+
+           filter: invert(100);
+    
+    */
+    transition: 0.3s ease-in-out;
+    
+}
+.icone:houver{
+      transform: scale(1.1);
+}
